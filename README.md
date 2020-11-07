@@ -1,7 +1,7 @@
 # Language-Translation
 This repo will assist you to translate one language into another using different open-source models.
 
-Mainly, we will be using Transformers models. :hugs:
+Mainly, we will be using Transformers. :hugs:
 
 ## Models
 
